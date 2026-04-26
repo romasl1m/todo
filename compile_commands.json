@@ -1,0 +1,8 @@
+
+[
+  {
+    "directory": "/home/roman/todo",
+    "command": "g++ main.cpp mainframe.cpp -I/usr/local/include/wx-3.3 -I/usr/local/lib/wx/include/gtk3-unicode-3.3 -I/usr/local/include/wx-3.3 -D_FILE_OFFSET_BITS=64 -DWXUSINGDLL -D__WXGTK__ -pthread",
+    "file": "main.cpp"
+  }
+]
